@@ -1,0 +1,19 @@
+h1 {
+  color: #843828;
+  font-size: 1.7rem;
+  font-family: Verdana;
+}
+
+p {
+  color: #5352C9;
+  font-size: 1.2rem;
+  font-family: Verdana;
+}
+
+img {
+  width: 400px;
+}
+
+body {
+  background-color: lime
+}
